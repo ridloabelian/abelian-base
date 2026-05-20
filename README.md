@@ -1,7 +1,5 @@
 <div align="center">
 
-![Abelian Base Banner](assets/banner.png)
-
 # 🌌 abelian-base
 
 [![Blogger Template Version](https://img.shields.io/badge/Blogger%20Template-v1.0.0-E1622F?style=for-the-badge&logo=blogger)](https://www.blogger.com)
